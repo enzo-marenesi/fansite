@@ -1,0 +1,191 @@
+.texte99{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    font-size: 1.2em;
+}
+.back{
+    background-color: white;
+    width: 100%;
+    display: flex; 
+    justify-content: center;
+    padding-top: 2%;
+    padding-bottom: 3%;
+    border-bottom: 1px solid;
+    border-bottom-color:gray ;
+
+}
+.middle{
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    padding-left: 2%;
+}
+
+.middle p{
+font-size: 0.5em;
+align-content: flex-end;
+}
+
+.middle:nth-child(1){
+    display: flex;
+    align-self: flex-end;
+    font-size: 1.5em;
+}
+
+.middle:nth-child(3){
+    display: flex;
+    align-self: flex-end;
+    font-size: 1.5em;
+}
+
+.middle:nth-child(2){
+    font-size: 1.5em;
+}
+.firstbody{
+    background-color: white ;
+    overflow-x: hidden;
+    margin: 0%;
+
+}
+.cadregro{
+    display: flex;
+    justify-content: left;
+    margin: auto;
+    width: 90% ;
+    padding-top: 1.5%;
+    flex-direction: column;
+    background-color: white;
+    font-size: 1.1em;
+}
+.text5{
+    display: flex;
+    justify-content: center;
+}
+.textpres{
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 3%;
+
+}
+
+.textright{
+  display: flex;
+  justify-content: flex-end;
+  margin: auto;
+}
+
+.texte6{
+    display: flex;
+    align-items: space-between;
+    padding-bottom: -12%;
+    padding-top: 3%;
+    border-top-color: #222121;
+    border-top: 10px solid;
+
+}
+
+.textestock{
+    display: flex;
+    flex-direction: column;
+    
+}
+.imgright{
+    display: flex;
+    justify-content: flex-end;
+    margin: auto    ;
+    justify-content: center;
+
+}
+
+.thbody{
+    background-color: white;
+    overflow-x: hidden;
+    margin: 0%;
+}
+
+.firth{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.imgall{
+    display: flex;
+}
+
+.btc{
+    margin-right: 3%;
+}
+
+.btctext{
+    margin: auto;
+    width: 85%;
+    margin-right: 3%;
+}
+
+
+.eth{
+    margin-right: 3%;
+
+}
+
+.ethtext{
+width: 75%;
+}
+
+.imgbas{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    width: 100%;
+    margin-top: 3%;
+}
+
+.bnb{
+    display: flex;
+    justify-content: center;
+    margin-left: 35%;
+}
+
+.bnbtext{
+    margin-left: 3%;
+    margin-right: 15%;
+
+
+}
+
+.back a{
+    text-decoration: none;
+    color: rgb(43, 96, 156);
+}
+
+.bodyyy{
+    background-image: url("image/xvs.jpg");
+    margin: 0%;
+}
+.xvs{
+  display: flex;
+  justify-content: center   ;
+}
+.textxv{
+    font-size: 45px;
+    margin-top: 5%;
+    text-align: center;
+} 
+
+.footer_{
+   margin: auto;
+    margin-top: 10%;
+    height: 10em;
+    width: 100%;
+    background-color: rgb(12, 1, 20);
+    border-top: 1px solid  ;
+   bottom: 0;
+}
+
+
+.enormus{
+    font-size: 1.5em;
+    margin-left: 1000%;
+}
